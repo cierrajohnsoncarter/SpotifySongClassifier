@@ -1,6 +1,6 @@
 # SpotifySongClassifier - MachineLearning
 
-This python project explores machine learning and data visualization to analyze a Spotify dataset of song attributes to implement a Decision Tree.
+This python project utilizes the Spotify API and explores machine learning and data visualization to analyze a Spotify dataset of song attributes to implement a Decision Tree.
 
 • I explored a dataset on kaggle which provided a list of a user's songs that were labled with a target value of either 0 or 1 depending on whether or not the user liked or disliked a song
 
