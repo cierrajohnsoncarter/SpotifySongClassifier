@@ -2,7 +2,7 @@
 
 This python project explores machine learning and data visualization to analyze a Spotify dataset of song attributes to implement a Decision Tree.
 
-Using Spotify song attributes data and the Spotify API, I built an algorithm to predict whether or not the user will like or dislike a song.
+Using Spotify song attributes data and the Spotify API, I implemented an algorithm to predict whether or not the user will like or dislike a song.
 
 • I explored a dataset on kaggle which provided a list of a user's songs that were labled with a target value of either 0 or 1 depending on whether or not the user liked or disliked a song
 
